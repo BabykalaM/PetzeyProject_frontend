@@ -1,0 +1,12 @@
+D:\Project\Petzey.Department\Petzey.Dept.Domain\bin\Release\net6.0\Petzey.Dept.Domain.deps.json
+D:\Project\Petzey.Department\Petzey.Dept.Domain\bin\Release\net6.0\Petzey.Dept.Domain.dll
+D:\Project\Petzey.Department\Petzey.Dept.Domain\bin\Release\net6.0\Petzey.Dept.Domain.pdb
+D:\Project\Petzey.Department\Petzey.Dept.Domain\obj\Release\net6.0\Petzey.Dept.Domain.csproj.AssemblyReference.cache
+D:\Project\Petzey.Department\Petzey.Dept.Domain\obj\Release\net6.0\Petzey.Dept.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Petzey.Department\Petzey.Dept.Domain\obj\Release\net6.0\Petzey.Dept.Domain.AssemblyInfoInputs.cache
+D:\Project\Petzey.Department\Petzey.Dept.Domain\obj\Release\net6.0\Petzey.Dept.Domain.AssemblyInfo.cs
+D:\Project\Petzey.Department\Petzey.Dept.Domain\obj\Release\net6.0\Petzey.Dept.Domain.csproj.CoreCompileInputs.cache
+D:\Project\Petzey.Department\Petzey.Dept.Domain\obj\Release\net6.0\Petzey.Dept.Domain.dll
+D:\Project\Petzey.Department\Petzey.Dept.Domain\obj\Release\net6.0\refint\Petzey.Dept.Domain.dll
+D:\Project\Petzey.Department\Petzey.Dept.Domain\obj\Release\net6.0\Petzey.Dept.Domain.pdb
+D:\Project\Petzey.Department\Petzey.Dept.Domain\obj\Release\net6.0\ref\Petzey.Dept.Domain.dll

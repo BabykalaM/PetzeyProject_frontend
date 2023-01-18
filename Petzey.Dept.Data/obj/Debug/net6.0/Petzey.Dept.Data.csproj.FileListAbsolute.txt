@@ -1,0 +1,17 @@
+D:\Project\Petzey.Department\Petzey.Dept.Data\obj\Debug\net6.0\Petzey.Dept.Data.csproj.AssemblyReference.cache
+D:\Project\Petzey.Department\Petzey.Dept.Data\obj\Debug\net6.0\Petzey.Dept.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Petzey.Department\Petzey.Dept.Data\obj\Debug\net6.0\Petzey.Dept.Data.AssemblyInfoInputs.cache
+D:\Project\Petzey.Department\Petzey.Dept.Data\obj\Debug\net6.0\Petzey.Dept.Data.AssemblyInfo.cs
+D:\Project\Petzey.Department\Petzey.Dept.Data\obj\Debug\net6.0\Petzey.Dept.Data.csproj.CoreCompileInputs.cache
+D:\Project\Petzey.Department\Petzey.Dept.Data\bin\Debug\net6.0\Petzey.Dept.Data.deps.json
+D:\Project\Petzey.Department\Petzey.Dept.Data\bin\Debug\net6.0\Petzey.Dept.Data.runtimeconfig.json
+D:\Project\Petzey.Department\Petzey.Dept.Data\bin\Debug\net6.0\Petzey.Dept.Data.dll
+D:\Project\Petzey.Department\Petzey.Dept.Data\bin\Debug\net6.0\Petzey.Dept.Data.pdb
+D:\Project\Petzey.Department\Petzey.Dept.Data\bin\Debug\net6.0\Petzey.Dept.Domain.dll
+D:\Project\Petzey.Department\Petzey.Dept.Data\bin\Debug\net6.0\Petzey.Dept.Domain.pdb
+D:\Project\Petzey.Department\Petzey.Dept.Data\obj\Debug\net6.0\Petzey.Dept.Data.csproj.CopyComplete
+D:\Project\Petzey.Department\Petzey.Dept.Data\obj\Debug\net6.0\Petzey.Dept.Data.dll
+D:\Project\Petzey.Department\Petzey.Dept.Data\obj\Debug\net6.0\refint\Petzey.Dept.Data.dll
+D:\Project\Petzey.Department\Petzey.Dept.Data\obj\Debug\net6.0\Petzey.Dept.Data.pdb
+D:\Project\Petzey.Department\Petzey.Dept.Data\obj\Debug\net6.0\Petzey.Dept.Data.genruntimeconfig.cache
+D:\Project\Petzey.Department\Petzey.Dept.Data\obj\Debug\net6.0\ref\Petzey.Dept.Data.dll

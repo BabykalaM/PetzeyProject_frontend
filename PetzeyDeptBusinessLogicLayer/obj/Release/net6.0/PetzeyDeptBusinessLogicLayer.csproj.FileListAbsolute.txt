@@ -1,0 +1,17 @@
+D:\Project\Petzey.Department\PetzeyDeptBusinessLogicLayer\bin\Release\net6.0\PetzeyDeptBusinessLogicLayer.deps.json
+D:\Project\Petzey.Department\PetzeyDeptBusinessLogicLayer\bin\Release\net6.0\PetzeyDeptBusinessLogicLayer.dll
+D:\Project\Petzey.Department\PetzeyDeptBusinessLogicLayer\bin\Release\net6.0\PetzeyDeptBusinessLogicLayer.pdb
+D:\Project\Petzey.Department\PetzeyDeptBusinessLogicLayer\bin\Release\net6.0\Petzey.Dept.Domain.dll
+D:\Project\Petzey.Department\PetzeyDeptBusinessLogicLayer\bin\Release\net6.0\PetzeyDeptDTO.dll
+D:\Project\Petzey.Department\PetzeyDeptBusinessLogicLayer\bin\Release\net6.0\Petzey.Dept.Domain.pdb
+D:\Project\Petzey.Department\PetzeyDeptBusinessLogicLayer\bin\Release\net6.0\PetzeyDeptDTO.pdb
+D:\Project\Petzey.Department\PetzeyDeptBusinessLogicLayer\obj\Release\net6.0\PetzeyDeptBusinessLogicLayer.csproj.AssemblyReference.cache
+D:\Project\Petzey.Department\PetzeyDeptBusinessLogicLayer\obj\Release\net6.0\PetzeyDeptBusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Petzey.Department\PetzeyDeptBusinessLogicLayer\obj\Release\net6.0\PetzeyDeptBusinessLogicLayer.AssemblyInfoInputs.cache
+D:\Project\Petzey.Department\PetzeyDeptBusinessLogicLayer\obj\Release\net6.0\PetzeyDeptBusinessLogicLayer.AssemblyInfo.cs
+D:\Project\Petzey.Department\PetzeyDeptBusinessLogicLayer\obj\Release\net6.0\PetzeyDeptBusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Project\Petzey.Department\PetzeyDeptBusinessLogicLayer\obj\Release\net6.0\PetzeyDeptBusinessLogicLayer.csproj.CopyComplete
+D:\Project\Petzey.Department\PetzeyDeptBusinessLogicLayer\obj\Release\net6.0\PetzeyDeptBusinessLogicLayer.dll
+D:\Project\Petzey.Department\PetzeyDeptBusinessLogicLayer\obj\Release\net6.0\refint\PetzeyDeptBusinessLogicLayer.dll
+D:\Project\Petzey.Department\PetzeyDeptBusinessLogicLayer\obj\Release\net6.0\PetzeyDeptBusinessLogicLayer.pdb
+D:\Project\Petzey.Department\PetzeyDeptBusinessLogicLayer\obj\Release\net6.0\ref\PetzeyDeptBusinessLogicLayer.dll

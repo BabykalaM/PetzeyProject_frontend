@@ -1,0 +1,6 @@
+D:\Project\Petzey.Department\DeptUnitTest\bin\Release\net6.0\CoverletSourceRootsMapping
+D:\Project\Petzey.Department\DeptUnitTest\obj\Release\net6.0\DeptUnitTest.csproj.AssemblyReference.cache
+D:\Project\Petzey.Department\DeptUnitTest\obj\Release\net6.0\DeptUnitTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Petzey.Department\DeptUnitTest\obj\Release\net6.0\DeptUnitTest.AssemblyInfoInputs.cache
+D:\Project\Petzey.Department\DeptUnitTest\obj\Release\net6.0\DeptUnitTest.AssemblyInfo.cs
+D:\Project\Petzey.Department\DeptUnitTest\obj\Release\net6.0\DeptUnitTest.csproj.CoreCompileInputs.cache

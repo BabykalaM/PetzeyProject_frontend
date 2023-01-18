@@ -1,0 +1,15 @@
+D:\Project\Petzey.Department\DTO\bin\Debug\net6.0\DTO.deps.json
+D:\Project\Petzey.Department\DTO\bin\Debug\net6.0\DTO.dll
+D:\Project\Petzey.Department\DTO\bin\Debug\net6.0\DTO.pdb
+D:\Project\Petzey.Department\DTO\bin\Debug\net6.0\Petzey.Dept.Domain.dll
+D:\Project\Petzey.Department\DTO\bin\Debug\net6.0\Petzey.Dept.Domain.pdb
+D:\Project\Petzey.Department\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+D:\Project\Petzey.Department\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Petzey.Department\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+D:\Project\Petzey.Department\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+D:\Project\Petzey.Department\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+D:\Project\Petzey.Department\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+D:\Project\Petzey.Department\DTO\obj\Debug\net6.0\DTO.dll
+D:\Project\Petzey.Department\DTO\obj\Debug\net6.0\refint\DTO.dll
+D:\Project\Petzey.Department\DTO\obj\Debug\net6.0\DTO.pdb
+D:\Project\Petzey.Department\DTO\obj\Debug\net6.0\ref\DTO.dll

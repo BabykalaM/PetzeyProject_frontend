@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PetzeyDeptDTO/1.0.0": {
+        "dependencies": {
+          "Petzey.Dept.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PetzeyDeptDTO.dll": {}
+        }
+      },
+      "Petzey.Dept.Domain/1.0.0": {
+        "runtime": {
+          "Petzey.Dept.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PetzeyDeptDTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Petzey.Dept.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
